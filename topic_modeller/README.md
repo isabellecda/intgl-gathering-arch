@@ -6,3 +6,6 @@ From a list of PDF files, get the top topics and output the files relavance to a
 - Topic Modeler.ipynb: jupiter notebook
 - config.ini: configuration file
 - pdf-status.csv: output file
+
+## Tip
+Use nbview to render the notebook: https://nbviewer.jupyter.org/
